@@ -1,5 +1,5 @@
 {
-  "name": "Binary Bakers Blog",
+  "name": "Binary Bakers - Blog",
   "tagline": "",
   "body": "### Swiftly convert!\r\nYou can convert to either Swift 2.3 or Swift 3 immediately. If you ever need to bring it back up, you can always navigate in Xcode to Edit > Convert > To Current Swift Syntax…. The compiler fortunately shares the same smarts as the Migration Assistant as well. If you accidentally use the old API on a method call, the compiler will offer a Fix-It option that will help you use the correct modern API.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
